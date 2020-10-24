@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "909340555931",
+    "firebase_url": "https://bitcoin-f449b.firebaseio.com",
+    "project_id": "bitcoin-f449b",
+    "storage_bucket": "bitcoin-f449b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909340555931:android:de87390c5f7b02276f243e",
+        "android_client_info": {
+          "package_name": "com.example.Bitcoin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909340555931-u47n5qvv7u040knfnfe43jh1leo6m504.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Bitcoin_app",
+            "certificate_hash": "0261006950820f5e199e7cea45126874f3f5b762"
+          }
+        },
+        {
+          "client_id": "909340555931-iqvvpob2l0p2793jhltetc4fm4v2gk19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1nJ2wD0UX3ujhzpP3kkGlbzBNIMqvU_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909340555931-iqvvpob2l0p2793jhltetc4fm4v2gk19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
